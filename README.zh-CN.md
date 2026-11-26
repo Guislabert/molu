@@ -12,8 +12,8 @@
 <div align="center">
 
 [![CI](https://img.shields.io/badge/CI-passing-34A853.svg)][ci]
-[![版本](https://img.shields.io/badge/版本-1.0.3-4285F4.svg)][vlg]
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License%3A%20CC%20BY--NC%204.0-FBBC05.svg)][osi]
+[![版本](https://img.shields.io/badge/版本-1.1.0-4285F4.svg)][vlg]
+[![License: Apache-2.0](https://img.shields.io/badge/License%3A%20Apache--2.0-FBBC05.svg)][osi]
 
 </div>
 
@@ -145,12 +145,14 @@ Bug、模块想法或方法问题，请在 issue 提出。
 
 [ci]: https://github.com/Guislabert/molu/actions
 [vlg]: CHANGELOG.md
-[osi]: https://creativecommons.org/licenses/by-nc/4.0/
+[osi]: LICENSE
 
 ## 许可证
 
-本项目方法论采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) —— 个人学习与研究的非商用使用必须署名；商用需联系作者授权。
+- **代码与方法论**——`molu/*/references/` 之外的全部内容——采用 [Apache License 2.0](LICENSE)。可 fork、可嵌进产品、可商用卖产出；署名与专利授权随许可证一并生效。
+- **内置素材摘录**（`molu/*/references/`）**不在** Apache-2.0 覆盖范围内。它们是公开文章的逐字摘录，版权仍属原作者与发布方，随仓库仅用于本地分析与研究，不得对外分发。镜像或重新发布前请删掉该目录。
+- **名称与标识**：`molu` / 墨炉 及墨炉标识不授权用于产品命名或背书（[Apache-2.0 §6](LICENSE) 商标条款）。来源与致谢记录在 [NOTICE](NOTICE)。
 
-**内容边界**：本仓库不含逐字语料。用本引擎创作并发布内容时，请用自己的原创措辞；不虚构案例、不承诺流量数字。
+**内容边界**：除 `references/` 外，本仓库不含逐字语料。用本引擎创作并发布内容时，请用自己的原创措辞；不虚构案例、不承诺流量数字。
 
 Layout: readme-harness [v0.1.0](https://github.com/Guislabert/readme-harness/blob/main/CHANGELOG.md) @[`8c65495`](https://github.com/Guislabert/readme-harness/commit/8c65495) · baseline: [docs/readme-harness.md](docs/readme-harness.md)

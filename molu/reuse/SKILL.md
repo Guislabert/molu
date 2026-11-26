@@ -1,7 +1,7 @@
 ---
 name: reuse
 description: ⑥复用·一个已验证的主题拆出十个不同角度,五种换角度方式。同一话题要持续产出时使用。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: Requires python3 for the data layer. Queries the bundled kb.py at the engine root.
 allowed-tools:
   - Read

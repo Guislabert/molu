@@ -1,7 +1,7 @@
 ---
 name: strategy
 description: ③策略·内容策略。定位置、人群、节奏、形式,含「不做什么」。定账号方向或多平台分工时使用。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: No local runtime dependency; may use web search when available.
 allowed-tools:
   - Read

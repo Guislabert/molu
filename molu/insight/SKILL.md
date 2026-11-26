@@ -1,7 +1,7 @@
 ---
 name: insight
 description: ②洞察·洞察研究。搞清读者是谁、卡在哪、未被满足的需求。做用户画像或内容没人看诊断时使用。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: No local runtime dependency; may use web search when available.
 allowed-tools:
   - Read

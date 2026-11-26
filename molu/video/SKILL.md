@@ -1,7 +1,7 @@
 ---
 name: video
 description: ⑧短视频·短视频口播脚本:前 3 秒钩子、分镜节奏、字幕切分。把观点或长文改成抖音/视频号稿时使用。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: Requires python3 to query the engine data layer (kb.py).
 allowed-tools:
   - Read

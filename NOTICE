@@ -1,0 +1,41 @@
+molu (墨炉)
+Copyright 2026 Guislabert and molu contributors
+
+This product includes software developed as part of the molu project
+(https://github.com/Guislabert/molu).
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+------------------------------------------------------------------------
+Scope carve-outs
+------------------------------------------------------------------------
+
+1. Source-material excerpts — molu/*/references/**
+
+   Files under any `references/` directory (e.g. `molu/writer/references/
+   外部方法论库.md`, `molu/radar/references/hot_snapshot.json`,
+   `molu/teardown/references/dist.json`) contain verbatim excerpts and
+   derived data from publicly published articles. Copyright in that
+   material remains with the original authors and publishers. These files
+   are NOT licensed under the Apache License 2.0. They are bundled for
+   local analysis and research only and must not be redistributed.
+   Remove them before mirroring, republishing, or shipping this repo as a
+   product.
+
+2. Names and marks
+
+   "molu", "墨炉", and the molu logo are not licensed under the Apache
+   License 2.0 (see LICENSE, section 6, Trademarks). Do not use them to
+   name or endorse a derivative product without permission.
+
+------------------------------------------------------------------------
+Provenance
+------------------------------------------------------------------------
+
+The methodology was distilled from 899 publicly published WeChat Official
+Account articles (2015-09-15 .. 2018-12-27) and cross-checked against
+public frameworks (4A / STP / Aaker / JTBD / pyramid principle / IAB Brand
+Safety GARM 12). The README distribution format references
+dontbesilent2025/dbskill (CC BY-NC 4.0) — that is an acknowledgement of
+influence and of a documented prior art, not a claim of derivation from
+its code. No verbatim corpus is stored in this repo outside `references/`.

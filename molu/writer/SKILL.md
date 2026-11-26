@@ -1,7 +1,7 @@
 ---
 name: writer
 description: ⑦写稿·按平台规格产出可发布的公众号长文或图文。写正式稿子时使用;短视频口播交给 video。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: Requires python3 to query the engine data layer (kb.py).
 allowed-tools:
   - Read

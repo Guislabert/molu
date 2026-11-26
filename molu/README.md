@@ -233,9 +233,9 @@ AARRR / HEART / Hofstese / 高低语境理论
 **生态与结构**:README 分发形态参考 dontbesilent2025/dbskill（CC BY-NC 4.0），并修复了其已证实的原子化截断等问题。
 **边界**:以上仅为来源说明，不构成背书；来源方要求调整或删除时可通过 issue 处理；输出内容务必替换为原创表述，不编造案例。
 
-- 本引擎的**方法论**（各 `SKILL.md`）不含原文引用，可自由使用
-- `references/` 中的**素材库**含公开语料的逐字摘录，**仅供本地分析与研究**，不得对外分发
-- `license` 字段已声明 "for local research only and must not be redistributed"
+- 本引擎的**方法论**（各 `SKILL.md`）与代码采用 **Apache-2.0**，可自由商用
+- `references/` 中的**素材库**含公开语料的逐字摘录，**仅供本地分析与研究**，不得对外分发，且不在 Apache-2.0 覆盖范围内
+- `license` 字段现已区分两层：SKILL.md/代码为 `Apache-2.0`，`references/` 摘录归原作者、本地研究专用
 - 对外发布内容时必须替换为原创表述
 
 ---

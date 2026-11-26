@@ -12,8 +12,8 @@
 <div align="center">
 
 [![CI](https://img.shields.io/badge/CI-passing-34A853.svg)][ci]
-[![Version](https://img.shields.io/badge/Version-1.0.3-4285F4.svg)][vlg]
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License%3A%20CC%20BY--NC%204.0-FBBC05.svg)][osi]
+[![Version](https://img.shields.io/badge/Version-1.1.0-4285F4.svg)][vlg]
+[![License: Apache-2.0](https://img.shields.io/badge/License%3A%20Apache--2.0-FBBC05.svg)][osi]
 
 </div>
 
@@ -145,7 +145,7 @@ Raise an issue for a bug, a module idea, or a question about the method.
 
 [ci]: https://github.com/Guislabert/molu/actions
 [vlg]: CHANGELOG.md
-[osi]: https://creativecommons.org/licenses/by-nc/4.0/
+[osi]: LICENSE
 
 ## Acknowledgements
 
@@ -154,9 +154,11 @@ Raise an issue for a bug, a module idea, or a question about the method.
 
 ## License
 
-This project's methodology is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — non-commercial use for personal learning and research must credit the source; commercial use requires contacting the author.
+- **Code and methodology** — everything outside `molu/*/references/` — is under the [Apache License 2.0](LICENSE). Fork it, ship it inside a product, sell the output: attribution and the patent grant travel with the license.
+- **Bundled source-material excerpts** (`molu/*/references/`) are **not** covered by Apache-2.0. They are verbatim excerpts of publicly published articles whose copyright stays with the original authors and publishers; they ship for local analysis and research only and must not be redistributed. Delete that directory before mirroring or republishing.
+- **Name and marks**: `molu` / 墨炉 and the 墨炉 mark are not licensed for product naming or endorsement ([Apache-2.0 §6](LICENSE), Trademarks). Attribution and provenance are recorded in [NOTICE](NOTICE).
 
-**Content boundary**: this repo contains no verbatim corpus. When using this engine to create content, replace output with your own original phrasing; do not fabricate cases, and do not promise traffic numbers.
+**Content boundary**: outside `references/` this repo holds no verbatim corpus. When using this engine to create content, replace output with your own original phrasing; do not fabricate cases, and do not promise traffic numbers.
 
 ---
 

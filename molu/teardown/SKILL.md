@@ -1,7 +1,7 @@
 ---
 name: teardown
 description: ⑩拆解·基于 899 篇实测基线,12 指标拆解一篇内容为什么爆/为什么不爆。分析对标差距时使用。
-license: "CC BY-NC 4.0 for the methodology. Bundled corpus excerpts are for local research only and must not be redistributed."
+license: "Apache-2.0 for this SKILL.md and the engine code. Excerpts under references/ stay with their original authors: local research only, no redistribution."
 compatibility: Requires python3. Ships scripts/analyze.py and references/dist.json.
 allowed-tools:
   - Read
