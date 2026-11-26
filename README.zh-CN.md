@@ -137,6 +137,8 @@ bash install.sh all              # 源 + 软链到 pi / claude / codex
 
 完整引擎文档见 [`molu/README.md`](molu/README.md)。版本纪律遵循 [SemVer 2.0.0](https://semver.org/)，由 `tools/version-check.mjs` 守卫。
 
+**方法有评测，不只是自述。** [`molu-bench`](https://github.com/Guislabert/molu-bench) 测的是模型有没有真的按这套方法论执行：20 条 dev set、固定的 `raw` / `doctrine` 两种提示条件、确定性规则打分、先注册后跑数的协议，以及逐项列清的 GPU 小时账单。跑通它不需要 API key。
+
 方法论来源与框架致谢（含 [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)）在下方 **许可证** 一节详列。
 
 ## 反馈

@@ -137,6 +137,8 @@ After installing, enter in the Agent chat:
 
 Full engine documentation lives in [`molu/README.md`](molu/README.md). version discipline follows [SemVer 2.0.0](https://semver.org/) and is guarded by `tools/version-check.mjs`.
 
+**Evaluated, not just described.** [`molu-bench`](https://github.com/Guislabert/molu-bench) measures whether a model actually follows this doctrine: 20-item dev set, fixed `raw` / `doctrine` prompt conditions, deterministic rubrics, pre-registered protocol, and an itemized GPU-hour bill. Its harness runs offline with no API key.
+
 Methodology provenance and framework acknowledgements (including [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)) are detailed under **License**.
 
 ## Feedback
